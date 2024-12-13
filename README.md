@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Welcome to my git_hub WORLD</h1>
+<h1 align="center">Hi and welcome to my git_hub WORLD :)</h1>
 
 ###
 
