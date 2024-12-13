@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="imaxmanis@gmail.com" target="_blank">
+  <a href="mailto:imaxmanis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaxmanis@gmail.com" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Max_Manis" target="_blank">
