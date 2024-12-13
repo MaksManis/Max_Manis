@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi and welcome to my git_hub WORLD :)</h1>
+<h1 align="center">Welcome to my git_hub space 🚀✨🌌</h1>
 
 ###
 
@@ -21,17 +21,33 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">Short story</h3>
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+<p align="left">I'm a junior QA engineer. In 2022, I finished my IT school. I have continued learning the English language, and now I'm at the B1 level. I am taking my first commercial practicum in ITX company, where I tested mobile and web applications. My responsibilities included:
+  
+Mobile and web browsers testing:
+- cross-platform testing
+- cross-browser testing
+- smoke testing
+- ad hoc testing
+- regression testing
+- localization testing
 
-###
-<h3 align="left">📕 Мои статьи</h3>
+Working with test documentation:
+- compiling bug reports
+- compiling checklists (regression)
+- keeping checklists up to date
+- compiling a glossary
 
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
+Working with found bugs:
+- retesting after updates
+- writing test cases
+
+Right now, I am looking for new opportunities, and if you want me, I will give you my best 😊
+</p>
+
 
 ###
 
