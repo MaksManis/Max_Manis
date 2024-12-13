@@ -12,17 +12,11 @@
 
 <div align="center">
   <a href="imaxmanis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="[https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaxmanis@gmail.com)" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Max_Manis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
 </div>
 
 ###
