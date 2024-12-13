@@ -1,4 +1,3 @@
-# Max_Manis
 <br clear="both">
 
 <div align="center">
@@ -7,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Welcome to my git_hub WORLD</h1>
 
 ###
 
