@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
-  <a href="mailto:imaxmanis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaxmanis@gmail.com" height="25" alt="gmail logo"  />
-  </a>
+  <a href="mailto:imaxmanis@gmail.com?subject=Your%20Subject&body=Your%20message%20body%20here" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imaxmanis@gmail.com" height="25" alt="gmail logo" />
+</a>
   <a href="https://t.me/Max_Manis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
